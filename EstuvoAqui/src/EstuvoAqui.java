@@ -5,6 +5,7 @@ public class EstuvoAqui {
 	
 		System.out.println("JM estuvo aquí \n");
 		System.out.println("Dominik Novotny estuvo aquí \n");
+		System.out.println("Juan Pedro Belijar estuvo aquí \n");
 	}
 
 }
